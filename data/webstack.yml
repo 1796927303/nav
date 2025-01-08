@@ -285,10 +285,7 @@
           logo: images/logos/InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery
+       
 
     - term: 平面素材
       links:
