@@ -10,6 +10,14 @@ draft: false
 
 [hugo-webstack](https://github.com/oulh/hugo-webstack) 是基于**纯静态**的网址导航网站[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的[Hugo](https://gohugo.io/)主题。
 
+### 本站模板
+
+[https://github.com/oulh/nav](https://github.com/oulh/nav)
+
+### 本站主题
+
+[https://github.com/oulh/hugo-webstack](https://github.com/oulh/hugo-webstack)
+
 ### 便捷编辑
 
 1. logo：已内置api，留空即可自动加载
