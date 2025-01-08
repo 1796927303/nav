@@ -14,10 +14,6 @@ draft: false
 
 [https://github.com/oulh/nav](https://github.com/oulh/nav)
 
-### 本站主题
-
-[https://github.com/oulh/hugo-webstack](https://github.com/oulh/hugo-webstack)
-
 ### 便捷编辑
 
 1. logo：已内置api，留空即可自动加载
