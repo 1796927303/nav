@@ -31,7 +31,7 @@ copyright = "张三"
   
 #桌面端右上角code按钮
 [params.github]
-  enable = true #true显示 false隐藏
+  enable =false #true显示 false隐藏
   url = "https://github.com/oulh/nav"
   
 [permalinks]  
