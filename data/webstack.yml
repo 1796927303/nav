@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 热门推荐
-  icon: fa-globe
+  icon: fa-regular
   links: 
     - title: Dribbble
       logo: 
