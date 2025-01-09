@@ -40,6 +40,7 @@
       url: https://www.producthunt.com/
       description: 发现新鲜有趣的产品
     - title: Youtube
+      logo:
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
     - title: Google
