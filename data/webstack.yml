@@ -101,8 +101,8 @@
       logo: images/logos/uigreat.png
       url: http://www.uigreat.com/
       description: UI设计师学习交流社区
-    
 
+    
 - taxonomy: 灵感采集
   icon: fa-regular fa-lightbulb
   list: 
@@ -132,34 +132,7 @@
           logo: images/logos/appinn.png
           url: https://faxian.appinn.com/
           description: 在这里发现更多有趣的应用
-          
-    - term: 发现产品
-      links:
-        - title: Producthunt
-          logo: images/logos/producthunt.png
-          url: https://www.producthunt.com/
-          description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
-        - title: 少数派
-          logo: images/logos/sspai.png
-          url: https://sspai.com/
-          description: 高品质数字消费指南
-        - title: 利器
-          logo: images/logos/liqi.png
-          url: https://liqi.io/
-          description: 创造者和他们的工具
-        - title: Today
-          logo: images/logos/today.png
-          url: http://today.itjuzi.com/
-          description: 为身边的新产品喝彩
-        - title: 小众软件
-          logo: images/logos/appinn.png
-          url: https://faxian.appinn.com/
-          description: 在这里发现更多有趣的应用
-          
+        
     - term: 界面灵感
       links:
         - title: Pttrns
